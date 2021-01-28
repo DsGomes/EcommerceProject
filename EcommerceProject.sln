@@ -13,13 +13,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Entities", "5 - Entities", "{5E939B98-D02D-4B0E-98D9-8A3FA0CBF029}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceProject.Entities", "EcommerceProject.Entities\EcommerceProject.Entities.csproj", "{D07A3400-7CA7-419C-ABB6-E759345C2BF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommerceProject.Entities", "EcommerceProject.Entities\EcommerceProject.Entities.csproj", "{D07A3400-7CA7-419C-ABB6-E759345C2BF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceProject.Infrastructure", "EcommerceProject.Infrastructure\EcommerceProject.Infrastructure.csproj", "{2C9BD3DE-F2AB-4E8A-97E6-0B67EE9EE20C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommerceProject.Infrastructure", "EcommerceProject.Infrastructure\EcommerceProject.Infrastructure.csproj", "{2C9BD3DE-F2AB-4E8A-97E6-0B67EE9EE20C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EommerceProject.Domain", "EommerceProject.Domain\EommerceProject.Domain.csproj", "{1C0DE8B0-37F6-4C46-87DF-F8842D2F6C10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommerceProject.Domain", "EommerceProject.Domain\EcommerceProject.Domain.csproj", "{1C0DE8B0-37F6-4C46-87DF-F8842D2F6C10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceProject.ApplicationApp", "EcommerceProject.ApplicationApp\EcommerceProject.ApplicationApp.csproj", "{21D513F4-575E-4086-8B6E-034A285436F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommerceProject.ApplicationApp", "EcommerceProject.ApplicationApp\EcommerceProject.ApplicationApp.csproj", "{21D513F4-575E-4086-8B6E-034A285436F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

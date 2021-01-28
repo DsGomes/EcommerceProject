@@ -5,8 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\EcommerceProject.Entities\EcommerceProject.Entities.csproj" />
-    <ProjectReference Include="..\EommerceProject.Domain\EcommerceProject.Domain.csproj" />
   </ItemGroup>
 
 </Project>
